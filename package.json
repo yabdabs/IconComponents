@@ -5,7 +5,7 @@
   "main": "./dist/lib/index.js",
   "scripts": {
     "build": "webpack",
-    "postinstall": "rm -rf ./src/lib/IconComponents && npx @svgr/cli -d ./src/lib/IconComponents ./src/assets/Icons"
+    "postinstall": "rm -rf ./src/lib/IconComponents && npx @svgr/cli -d ./src/lib/IconComponents ./src/assets/Icons && npm run build"
   },
   "babel": {
     "presets": [
