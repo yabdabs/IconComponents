@@ -4,4 +4,6 @@ node_modules/
 # Bundled code
 dist/
 
+src/lib/IconComponents
+
 package-lock.json
