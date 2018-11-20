@@ -2,6 +2,10 @@
   "name": "IconComponents",
   "version": "1.0.0",
   "description": "Converts svg icons to react components",
+  "repository": {
+    "type": "git",
+    "url": "https://git.express-scripts.com/ExpressScripts/IconComponents.git"
+  },
   "main": "./dist/lib/index.js",
   "scripts": {
     "build": "webpack",
@@ -13,7 +17,7 @@
       "@babel/preset-react"
     ]
   },
-  "author": "ei6255",
+  "author": "Abdul Khan",
   "license": "ISC",
   "dependencies": {
     "@svgr/cli": "^4.0.3",
