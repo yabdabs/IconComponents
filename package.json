@@ -7,12 +7,6 @@
     "build": "webpack",
     "postinstall": "rm -rf ./src/lib/IconComponents && npx @svgr/cli -d ./src/lib/IconComponents ./src/assets/Icons && npm run build"
   },
-  "babel": {
-    "presets": [
-      "@babel/preset-env",
-      "@babel/preset-react"
-    ]
-  },
   "author": "Abdul Khan",
   "license": "ISC",
   "dependencies": {
