@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Accordion / Expand - small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.9473684,11.0526316 L17.0583801,11.0526316 C17.5784224,11.0526316 18,11.4731351 18,12 C18,12.5232171 17.5729136,12.9473684 17.0583801,12.9473684 L12.9473684,12.9473684 L12.9473684,17.0583801 C12.9473684,17.5784224 12.5268649,18 12,18 C11.4767829,18 11.0526316,17.5729136 11.0526316,17.0583801 L11.0526316,12.9473684 L6.94161987,12.9473684 C6.42157758,12.9473684 6,12.5268649 6,12 C6,11.4767829 6.42708635,11.0526316 6.94161987,11.0526316 L11.0526316,11.0526316 L11.0526316,6.94161987 C11.0526316,6.42157758 11.4731351,6 12,6 C12.5232171,6 12.9473684,6.42708635 12.9473684,6.94161987 L12.9473684,11.0526316 Z" id="path-1"></path>
+    </defs>
+    <g id="Style-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style_Icons" transform="translate(-387.000000, -1320.000000)">
+            <g id="Accordion" transform="translate(165.000000, 1248.000000)">
+                <g id="Icon-/-Accordion-/-Expand---small" transform="translate(222.000000, 72.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#009BDF" xlink:href="#path-1"></use>
+                    <g id="Color-/-Global-Grey---medium-dark" mask="url(#mask-2)" fill="#747981">
+                        <rect id="color" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

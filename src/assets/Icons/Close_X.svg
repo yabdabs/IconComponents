@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Close X</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,6.86167132 L15.4163809,0.445290378 C16.0112787,-0.149607368 16.9654911,-0.146457466 17.5559743,0.444025694 C18.1505742,1.03862559 18.1458912,1.99243743 17.5547096,2.58361906 L11.1383287,9 L17.5547096,15.4163809 C18.1458912,16.0075626 18.1505742,16.9613744 17.5559743,17.5559743 C16.9654911,18.1464575 16.0112787,18.1496074 15.4163809,17.5547096 L9,11.1383287 L2.58361906,17.5547096 C1.98872131,18.1496074 1.03450885,18.1464575 0.444025694,17.5559743 C-0.150574206,16.9613744 -0.145891248,16.0075626 0.445290378,15.4163809 L6.86167132,9 L0.445290378,2.58361906 C-0.145891248,1.99243743 -0.150574206,1.03862559 0.444025694,0.444025694 C1.03450885,-0.146457466 1.98872131,-0.149607368 2.58361906,0.445290378 L9,6.86167132 Z" id="path-1"></path>
+    </defs>
+    <g id="Style-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style_Icons" transform="translate(-165.000000, -2352.000000)">
+            <g id="Close-X" transform="translate(165.000000, 2304.000000)">
+                <g id="Icon-/-Close-X" transform="translate(0.000000, 48.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <g id="Group-2" transform="translate(3.000000, 3.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#009BDF" xlink:href="#path-1"></use>
+                        <g id="Color-/-Global-Grey---medium-dark" mask="url(#mask-2)" fill="#747981">
+                            <g transform="translate(-3.000000, -3.000000)" id="color">
+                                <rect x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
