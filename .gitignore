@@ -1,0 +1,8 @@
+node_modules/
+
+# keep bundled code for now
+# dist/
+
+package-lock.json
+
+.DS_Store
