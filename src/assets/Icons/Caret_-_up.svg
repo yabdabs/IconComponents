@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Arrows / Caret - up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.75,10.5555556 C16.75,10.7060193 16.6958827,10.8362263 16.5876465,10.9461806 L12.7595215,14.8350694 C12.6512853,14.9450237 12.5231127,15 12.375,15 C12.2268873,15 12.0987147,14.9450237 11.9904785,14.8350694 L8.16235352,10.9461806 C8.0541173,10.8362263 8,10.7060193 8,10.5555556 C8,10.4050918 8.0541173,10.2748848 8.16235352,10.1649306 C8.27058973,10.0549763 8.39876228,10 8.546875,10 L16.203125,10 C16.3512377,10 16.4794103,10.0549763 16.5876465,10.1649306 C16.6958827,10.2748848 16.75,10.4050918 16.75,10.5555556 L16.75,10.5555556 Z" id="path-1"></path>
+    </defs>
+    <g id="Style-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style_Icons" transform="translate(-731.000000, -2032.000000)">
+            <g id="Arrows" transform="translate(165.000000, 1960.000000)">
+                <g id="Caret" transform="translate(475.000000, 48.000000)">
+                    <g id="Icon-/-Arrows-/-Caret---up" transform="translate(91.000000, 24.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="caret" fill="#747981" transform="translate(12.375000, 12.500000) scale(1, -1) translate(-12.375000, -12.500000) " xlink:href="#path-1"></use>
+                        <g id="Color-/-Global-Grey---medium-dark" mask="url(#mask-2)" fill="#747981">
+                            <rect id="color" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
