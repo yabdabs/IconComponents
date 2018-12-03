@@ -8,14 +8,14 @@ const SvgCloseX = props => (
         id="Close_X_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
+    <g fillRule="evenodd">
       <path d="M0 0h24v24H0z" />
       <g transform="translate(3 3)">
-        <mask id="Close_X_svg__b" fill="#fff">
+        <mask id="Close_X_svg__b">
           <use xlinkHref="#Close_X_svg__a" />
         </mask>
-        <use fill="#009BDF" xlinkHref="#Close_X_svg__a" />
-        <g mask="url(#Close_X_svg__b)" fill="#747981">
+        <use xlinkHref="#Close_X_svg__a" />
+        <g mask="url(#Close_X_svg__b)">
           <path d="M-3-3h24v24H-3z" />
         </g>
       </g>

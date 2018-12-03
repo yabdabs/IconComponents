@@ -1,0 +1,6 @@
+plugins:
+- removeTitle: false
+- prefixIds: true
+- removeAttrs:
+    attrs: 'fill'
+- convertShapeToPath: false

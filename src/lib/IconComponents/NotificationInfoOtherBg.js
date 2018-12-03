@@ -8,12 +8,12 @@ const SvgNotificationInfoOtherBg = props => (
         id="Notification_Info_-_other_bg_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
-      <mask id="Notification_Info_-_other_bg_svg__b" fill="#fff">
+    <g fillRule="evenodd">
+      <mask id="Notification_Info_-_other_bg_svg__b">
         <use xlinkHref="#Notification_Info_-_other_bg_svg__a" />
       </mask>
-      <use fill="#009BDF" xlinkHref="#Notification_Info_-_other_bg_svg__a" />
-      <g mask="url(#Notification_Info_-_other_bg_svg__b)" fill="#515761">
+      <use xlinkHref="#Notification_Info_-_other_bg_svg__a" />
+      <g mask="url(#Notification_Info_-_other_bg_svg__b)">
         <path d="M0 0h24v24H0z" />
       </g>
     </g>

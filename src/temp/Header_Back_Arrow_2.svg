@@ -1,0 +1,17 @@
+<svg width="24" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M11.529 10.107L15.7 14.28a1.006 1.006 0 1 1-1.422 1.422l-4.173-4.173a6.37 6.37 0 1 1 1.422-1.422zm-5.16.621a4.358 4.358 0 1 0 0-8.716 4.358 4.358 0 0 0 0 8.716z" id="Header_Back_Arrow_2_svg__a"/>
+    </defs>
+    <g fill-rule="evenodd">
+        <rect width="24" height="32"/>
+        <g transform="translate(8 8)">
+            <mask id="Header_Back_Arrow_2_svg__b">
+                <use xlink:href="#Header_Back_Arrow_2_svg__a"/>
+            </mask>
+            <use xlink:href="#Header_Back_Arrow_2_svg__a"/>
+            <g mask="url(#Header_Back_Arrow_2_svg__b)">
+                <rect width="16" height="16"/>
+            </g>
+        </g>
+    </g>
+</svg>

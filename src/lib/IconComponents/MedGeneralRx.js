@@ -8,7 +8,7 @@ const SvgMedGeneralRx = props => (
         id="Med_General_Rx_svg__a"
       />
     </defs>
-    <use fill="#979AA0" fillRule="nonzero" xlinkHref="#Med_General_Rx_svg__a" />
+    <use xlinkHref="#Med_General_Rx_svg__a" />
   </svg>
 );
 

@@ -8,12 +8,12 @@ const SvgCalendar1 = props => (
         id="Calendar_1_svg__a"
       />
     </defs>
-    <g transform="translate(1 1)" fill="none" fillRule="evenodd">
-      <mask id="Calendar_1_svg__b" fill="#fff">
+    <g transform="translate(1 1)" fillRule="evenodd">
+      <mask id="Calendar_1_svg__b">
         <use xlinkHref="#Calendar_1_svg__a" />
       </mask>
-      <use fill="#515761" xlinkHref="#Calendar_1_svg__a" />
-      <g mask="url(#Calendar_1_svg__b)" fill="#747981">
+      <use xlinkHref="#Calendar_1_svg__a" />
+      <g mask="url(#Calendar_1_svg__b)">
         <path d="M-1-1h24v24H-1z" />
       </g>
     </g>

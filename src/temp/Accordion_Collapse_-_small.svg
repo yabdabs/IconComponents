@@ -1,0 +1,14 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="Accordion_Collapse_-_small_svg__a" class="Accordion_Collapse_-_small_svg__path-01" x="6" y="11" width="12" height="2" rx="1"/>
+    </defs>
+    <g fill-rule="evenodd">
+        <mask id="Accordion_Collapse_-_small_svg__b">
+            <use xlink:href="#Accordion_Collapse_-_small_svg__a"/>
+        </mask>
+        <use xlink:href="#Accordion_Collapse_-_small_svg__a"/>
+        <g mask="url(#Accordion_Collapse_-_small_svg__b)">
+            <rect width="24" height="24"/>
+        </g>
+    </g>
+</svg>

@@ -8,12 +8,12 @@ const SvgIOsTouchIdAccredo1 = props => (
         id="iOS_-_Touch_ID_Accredo_1_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
-      <mask id="iOS_-_Touch_ID_Accredo_1_svg__b" fill="#fff">
+    <g fillRule="evenodd">
+      <mask id="iOS_-_Touch_ID_Accredo_1_svg__b">
         <use xlinkHref="#iOS_-_Touch_ID_Accredo_1_svg__a" />
       </mask>
-      <use fill="#000" xlinkHref="#iOS_-_Touch_ID_Accredo_1_svg__a" />
-      <g mask="url(#iOS_-_Touch_ID_Accredo_1_svg__b)" fill="#007C89">
+      <use xlinkHref="#iOS_-_Touch_ID_Accredo_1_svg__a" />
+      <g mask="url(#iOS_-_Touch_ID_Accredo_1_svg__b)">
         <path d="M0 0h112v112H0z" />
       </g>
     </g>

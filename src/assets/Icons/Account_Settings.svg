@@ -11,7 +11,6 @@
             <g id="Account-Settings" transform="translate(735.000000, 1248.000000)">
                 <g id="Icon-/-Account-Settings" transform="translate(0.000000, 72.000000)">
                     <g id="Icon">
-                        <rect id="frame" x="0" y="0" width="32" height="32"></rect>
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>

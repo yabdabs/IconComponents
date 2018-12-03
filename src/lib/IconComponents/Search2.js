@@ -8,12 +8,12 @@ const SvgSearch2 = props => (
         id="Search_2_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
-      <mask id="Search_2_svg__b" fill="#fff">
+    <g fillRule="evenodd">
+      <mask id="Search_2_svg__b">
         <use xlinkHref="#Search_2_svg__a" />
       </mask>
-      <use fill="#009BDF" xlinkHref="#Search_2_svg__a" />
-      <g mask="url(#Search_2_svg__b)" fill="#FFF">
+      <use xlinkHref="#Search_2_svg__a" />
+      <g mask="url(#Search_2_svg__b)">
         <path d="M0 0h16v16H0z" />
       </g>
     </g>

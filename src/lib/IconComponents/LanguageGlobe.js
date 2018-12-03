@@ -8,12 +8,12 @@ const SvgLanguageGlobe = props => (
         id="Language_Globe_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
-      <mask id="Language_Globe_svg__b" fill="#fff">
+    <g fillRule="evenodd">
+      <mask id="Language_Globe_svg__b">
         <use xlinkHref="#Language_Globe_svg__a" />
       </mask>
-      <use fill="#FFF" xlinkHref="#Language_Globe_svg__a" />
-      <g mask="url(#Language_Globe_svg__b)" fill="#747981">
+      <use xlinkHref="#Language_Globe_svg__a" />
+      <g mask="url(#Language_Globe_svg__b)">
         <path d="M0 0h24v24H0z" />
       </g>
     </g>

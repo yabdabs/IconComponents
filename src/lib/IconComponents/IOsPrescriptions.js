@@ -8,13 +8,13 @@ const SvgIOsPrescriptions = props => (
         id="iOS_Prescriptions_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
+    <g fillRule="evenodd">
       <path d="M0 0h33v32H0z" />
-      <mask id="iOS_Prescriptions_svg__b" fill="#fff">
+      <mask id="iOS_Prescriptions_svg__b">
         <use xlinkHref="#iOS_Prescriptions_svg__a" />
       </mask>
-      <use fill="#FFF" xlinkHref="#iOS_Prescriptions_svg__a" />
-      <g mask="url(#iOS_Prescriptions_svg__b)" fill="#747981">
+      <use xlinkHref="#iOS_Prescriptions_svg__a" />
+      <g mask="url(#iOS_Prescriptions_svg__b)">
         <path d="M0 0h33v32H0z" />
       </g>
     </g>

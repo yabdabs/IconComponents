@@ -8,17 +8,16 @@ const SvgArrowAngleDown = props => (
         id="Arrow_Angle_-_down_svg__a"
       />
     </defs>
-    <g transform="translate(0 .1)" fill="none" fillRule="evenodd">
+    <g transform="translate(0 .1)" fillRule="evenodd">
       <path d="M0 2h24v24H0z" />
-      <mask id="Arrow_Angle_-_down_svg__b" fill="#fff">
+      <mask id="Arrow_Angle_-_down_svg__b">
         <use xlinkHref="#Arrow_Angle_-_down_svg__a" />
       </mask>
       <use
-        fill="#D8D8D8"
         transform="scale(1 -1) rotate(-45 -12.142 0)"
         xlinkHref="#Arrow_Angle_-_down_svg__a"
       />
-      <g mask="url(#Arrow_Angle_-_down_svg__b)" fill="#747981">
+      <g mask="url(#Arrow_Angle_-_down_svg__b)">
         <path d="M0 2h24v24H0z" />
       </g>
     </g>

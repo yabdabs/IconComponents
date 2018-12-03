@@ -8,12 +8,12 @@ const SvgPrint = props => (
         id="Print_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
-      <mask id="Print_svg__b" fill="#fff">
+    <g fillRule="evenodd">
+      <mask id="Print_svg__b">
         <use xlinkHref="#Print_svg__a" />
       </mask>
-      <use fill="#515761" xlinkHref="#Print_svg__a" />
-      <g mask="url(#Print_svg__b)" fill="#747981">
+      <use xlinkHref="#Print_svg__a" />
+      <g mask="url(#Print_svg__b)">
         <path d="M0 0h24v24H0z" />
       </g>
     </g>

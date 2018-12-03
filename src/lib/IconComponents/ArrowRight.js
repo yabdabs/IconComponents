@@ -8,18 +8,17 @@ const SvgArrowRight = props => (
         id="Arrow_-_right_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
+    <g fillRule="evenodd">
       <path d="M0 0h24v24H0z" />
       <g transform="translate(2 2)">
-        <mask id="Arrow_-_right_svg__b" fill="#fff">
+        <mask id="Arrow_-_right_svg__b">
           <use xlinkHref="#Arrow_-_right_svg__a" />
         </mask>
         <use
-          fill="#D8D8D8"
           transform="matrix(-1 0 0 1 21 0)"
           xlinkHref="#Arrow_-_right_svg__a"
         />
-        <g mask="url(#Arrow_-_right_svg__b)" fill="#747981">
+        <g mask="url(#Arrow_-_right_svg__b)">
           <path d="M-2-2h24v24H-2z" />
         </g>
       </g>

@@ -8,12 +8,12 @@ const SvgMessageUnread = props => (
         id="Message_-_unread_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
-      <mask id="Message_-_unread_svg__b" fill="#fff">
+    <g fillRule="evenodd">
+      <mask id="Message_-_unread_svg__b">
         <use xlinkHref="#Message_-_unread_svg__a" />
       </mask>
-      <use fill="#B9BCC0" xlinkHref="#Message_-_unread_svg__a" />
-      <g mask="url(#Message_-_unread_svg__b)" fill="#747981">
+      <use xlinkHref="#Message_-_unread_svg__a" />
+      <g mask="url(#Message_-_unread_svg__b)">
         <path d="M0 0h24v24H0z" />
       </g>
     </g>

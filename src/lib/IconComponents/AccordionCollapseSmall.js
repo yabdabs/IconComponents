@@ -12,13 +12,13 @@ const SvgAccordionCollapseSmall = props => (
         rx={1}
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
+    <g fillRule="evenodd">
       <path d="M0 0h24v24H0z" />
-      <mask id="Accordion_Collapse_-_small_svg__b" fill="#fff">
+      <mask id="Accordion_Collapse_-_small_svg__b">
         <use xlinkHref="#Accordion_Collapse_-_small_svg__a" />
       </mask>
-      <use fill="#009BDF" xlinkHref="#Accordion_Collapse_-_small_svg__a" />
-      <g mask="url(#Accordion_Collapse_-_small_svg__b)" fill="#747981">
+      <use xlinkHref="#Accordion_Collapse_-_small_svg__a" />
+      <g mask="url(#Accordion_Collapse_-_small_svg__b)">
         <path d="M0 0h24v24H0z" />
       </g>
     </g>

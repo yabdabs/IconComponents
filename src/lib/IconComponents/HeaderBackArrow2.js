@@ -8,14 +8,14 @@ const SvgHeaderBackArrow2 = props => (
         id="Header_Back_Arrow_2_svg__a"
       />
     </defs>
-    <g fill="none" fillRule="evenodd">
+    <g fillRule="evenodd">
       <path d="M0 0h24v32H0z" />
       <g transform="translate(8 8)">
-        <mask id="Header_Back_Arrow_2_svg__b" fill="#fff">
+        <mask id="Header_Back_Arrow_2_svg__b">
           <use xlinkHref="#Header_Back_Arrow_2_svg__a" />
         </mask>
-        <use fill="#009BDF" xlinkHref="#Header_Back_Arrow_2_svg__a" />
-        <g mask="url(#Header_Back_Arrow_2_svg__b)" fill="#FFF">
+        <use xlinkHref="#Header_Back_Arrow_2_svg__a" />
+        <g mask="url(#Header_Back_Arrow_2_svg__b)">
           <path d="M0 0h16v16H0z" />
         </g>
       </g>
