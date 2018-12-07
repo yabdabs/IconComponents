@@ -3,6 +3,9 @@ node_modules/
 # keep bundled code for now
 # dist/
 
+# don't push pre react, optimized svgs
+temp/
+
 package-lock.json
 
 .DS_Store

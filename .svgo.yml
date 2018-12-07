@@ -4,3 +4,6 @@ plugins:
 - removeAttrs:
     attrs: 'fill'
 - convertShapeToPath: false
+- mergePaths: false
+- removeViewBox: false
+- removeDimensions: true

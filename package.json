@@ -1,12 +1,14 @@
 {
-  "name": "IconComponents",
+  "name": "icon-components",
   "version": "1.0.0",
   "description": "Converts svg icons to react components",
   "main": "./dist/lib/index.js",
   "scripts": {
     "build": "webpack",
     "icons": "rm -rf ./src/lib/IconComponents && npx @svgr/cli -d ./src/lib/IconComponents ./src/temp --ext jsx --no-svgo",
-    "svgo": "npx svgo -f ./src/assets/Icons -o ./src/temp --pretty --config=.svgo.yml"
+    "svg": "npm run svgo-no-fill && npm run svgo-keep-fill && npm run icons && npm run build",
+    "svgo-no-fill": "npx svgo -f ./src/assets/Icons/RemoveFill -o ./src/temp --pretty --config=.svgo.yml",
+    "svgo-keep-fill": "npx svgo -f ./src/assets/Icons/KeepFill -o ./src/temp --pretty --config=.svgo.yml --disable=removeAttrs"
   },
   "babel": {
     "presets": [
@@ -17,11 +19,11 @@
   "author": "Abdul Khan",
   "license": "ISC",
   "dependencies": {
-    "@svgr/cli": "^4.0.3",
-    "@svgr/core": "^4.0.3",
     "@babel/core": "^7.1.6",
     "@babel/preset-env": "^7.1.6",
     "@babel/preset-react": "^7.0.0",
+    "@svgr/cli": "^4.0.3",
+    "@svgr/core": "^4.0.3",
     "babel-loader": "^8.0.4",
     "html-webpack-plugin": "^3.2.0",
     "react": "^16.6.3",

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="112px" viewBox="0 0 112 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / iOS / iOS - Touch ID ESI</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path class="path-01" d="M56,112 C25.072054,112 0,86.927946 0,56 C0,25.072054 25.072054,0 56,0 C86.927946,0 112,25.072054 112,56 C112,86.927946 86.927946,112 56,112 Z M56,106.09375 C83.6660142,106.09375 106.09375,83.6660142 106.09375,56 C106.09375,28.3339858 83.6660142,5.90625 56,5.90625 C28.3339858,5.90625 5.90625,28.3339858 5.90625,56 C5.90625,83.6660142 28.3339858,106.09375 56,106.09375 Z M76.5033442,38.5043637 C77.6463165,37.3646155 79.4968271,37.3672293 80.6365752,38.5102016 C81.7763233,39.6531739 81.7737096,41.5036845 80.6307373,42.6434326 L49.7326943,73.3924977 C48.5928453,74.5320024 46.7451501,74.5320024 45.6053012,73.3924977 L31.4451166,59.1555484 C30.3021445,58.0158002 30.2995309,56.1652898 31.4392789,55.0223176 C32.579027,53.8793454 34.4295374,53.8767315 35.5725098,55.0164795 L47.6689977,67.1897322 L76.5033442,38.5043637 Z" id="path-1"></path>
+    </defs>
+    <g id="Style-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style_Icons" transform="translate(-837.000000, -4160.000000)">
+            <g id="iOS" transform="translate(165.000000, 3840.000000)">
+                <g id="Face-ID" transform="translate(0.000000, 288.000000)">
+                    <g id="Icon-/-iOS-/-iOS---Touch-ID-ESI" transform="translate(672.000000, 32.000000)">
+                        <g id="Group">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+                            <g id="Color-/-ESI-Blue---dark-brand" mask="url(#mask-2)" fill="#14568D">
+                                <rect id="color" x="0" y="0" width="112" height="112"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
