@@ -14,7 +14,7 @@ git clone https://github.com/yabdabs/icon-components.git -->
 'Svg' is prepended to all the imports. To import..
 
 ```
-import SvgAccordionCollapse from 'icon-components'
+import { SvgAccordionCollapse } from 'icon-components'
 ```
 
 render as a react component in your JSX
