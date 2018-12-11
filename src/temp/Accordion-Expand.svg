@@ -1,0 +1,17 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>
+        Icon / Accordion / Expand - small
+    </title>
+    <defs>
+        <path class="Accordion-Expand_svg__path-01" d="M12.947 11.053h4.111a.948.948 0 0 1 0 1.895h-4.11v4.11a.948.948 0 0 1-1.895 0v-4.11H6.942a.948.948 0 0 1 0-1.895h4.11V6.942a.948.948 0 0 1 1.895 0v4.11z" id="Accordion-Expand_svg__a"/>
+    </defs>
+    <g fill-rule="evenodd">
+        <mask id="Accordion-Expand_svg__b">
+            <use xlink:href="#Accordion-Expand_svg__a"/>
+        </mask>
+        <use xlink:href="#Accordion-Expand_svg__a"/>
+        <g mask="url(#Accordion-Expand_svg__b)">
+            <rect width="24" height="24"/>
+        </g>
+    </g>
+</svg>
