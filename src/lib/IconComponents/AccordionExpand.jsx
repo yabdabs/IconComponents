@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgAccordionExpand = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Accordion / Expand - small\n    "}</title>
+    <title>{"\n        Expand Accordion\n    "}</title>
     <defs>
       <path
         className="Accordion-Expand_svg__path-01"

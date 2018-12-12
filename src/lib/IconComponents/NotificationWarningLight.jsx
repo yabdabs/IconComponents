@@ -2,9 +2,7 @@ import React from "react";
 
 const SvgNotificationWarningLight = props => (
   <svg viewBox="0 0 32 32" {...props}>
-    <title>
-      {"\n        Icon / Alerts Notifications / Warning - light\n    "}
-    </title>
+    <title>{"\n        Warning Notification\n    "}</title>
     <g fillRule="evenodd">
       <path
         className="Notification-Warning-Light_svg__path-01"

@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgSearch1 = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Search\n    "}</title>
+    <title>{"\n        Search\n    "}</title>
     <defs>
       <path
         className="Search1_svg__path-01"

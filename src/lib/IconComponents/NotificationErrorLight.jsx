@@ -2,9 +2,7 @@ import React from "react";
 
 const SvgNotificationErrorLight = props => (
   <svg viewBox="0 0 32 32" {...props}>
-    <title>
-      {"\n        Icon / Alerts Notifications / Error - light\n    "}
-    </title>
+    <title>{"\n        Error Notification\n    "}</title>
     <g fillRule="evenodd">
       <path
         className="Notification-Error-Light_svg__path-01"

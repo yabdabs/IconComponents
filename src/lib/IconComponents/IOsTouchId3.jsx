@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgIOsTouchId3 = props => (
   <svg viewBox="0 0 112 112" {...props}>
-    <title>{"\n        Icon / iOS / iOS - Touch ID ESI\n    "}</title>
+    <title>{"\n        Touch ID\n    "}</title>
     <defs>
       <path
         className="iOS-TouchID-3_svg__path-01"

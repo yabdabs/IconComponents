@@ -1,7 +1,5 @@
-import SvgAccordionCollapseLarge from './IconComponents/AccordionCollapseLarge.jsx'
-import SvgAccordionCollapseSmall from './IconComponents/AccordionCollapseSmall.jsx'
-import SvgAccordionExpandLarge from './IconComponents/AccordionExpandLarge.jsx'
-import SvgAccordionExpandSmall from './IconComponents/AccordionExpandSmall.jsx'
+import SvgAccordionCollapse from './IconComponents/AccordionCollapse.jsx'
+import SvgAccordionExpand from './IconComponents/AccordionExpand.jsx'
 import SvgAccountSettings from './IconComponents/AccountSettings.jsx'
 import SvgAndroidFingerprintAuth from './IconComponents/AndroidFingerprintAuth.jsx'
 import SvgAndroidFingerprintAuthSuccess from './IconComponents/AndroidFingerprintAuthSuccess.jsx'
@@ -9,11 +7,9 @@ import SvgAndroidHidePassword from './IconComponents/AndroidHidePassword.jsx'
 import SvgAndroidShowPassword from './IconComponents/AndroidShowPassword.jsx'
 import SvgArrowAngleDown from './IconComponents/ArrowAngleDown.jsx'
 import SvgArrowAngleLeft from './IconComponents/ArrowAngleLeft.jsx'
-import SvgArrowAngleLeft1 from './IconComponents/ArrowAngleLeft1.jsx'
 import SvgArrowAngleRight from './IconComponents/ArrowAngleRight.jsx'
 import SvgArrowAngleUp from './IconComponents/ArrowAngleUp.jsx'
 import SvgArrowLeft from './IconComponents/ArrowLeft.jsx'
-import SvgArrowLeft1 from './IconComponents/ArrowLeft1.jsx'
 import SvgArrowRight from './IconComponents/ArrowRight.jsx'
 import SvgCalendar from './IconComponents/Calendar.jsx'
 import SvgCaretDown from './IconComponents/CaretDown.jsx'
@@ -27,9 +23,6 @@ import SvgExternalLink from './IconComponents/ExternalLink.jsx'
 import SvgFlagCanada from './IconComponents/FlagCanada.jsx'
 import SvgFlagMexico from './IconComponents/FlagMexico.jsx'
 import SvgFlagUsa from './IconComponents/FlagUsa.jsx'
-import SvgHeaderBackArrow from './IconComponents/HeaderBackArrow.jsx'
-import SvgHelpLight from './IconComponents/HelpLight.jsx'
-import SvgIcon from './IconComponents/Icon.jsx'
 import SvgIOsBilling from './IconComponents/IOsBilling.jsx'
 import SvgIOsHome from './IconComponents/IOsHome.jsx'
 import SvgIOsOrders from './IconComponents/IOsOrders.jsx'
@@ -42,9 +35,7 @@ import SvgIOsTouchId2 from './IconComponents/IOsTouchId2.jsx'
 import SvgIOsTouchId3 from './IconComponents/IOsTouchId3.jsx'
 import SvgIOsTouchIdSuccess from './IconComponents/IOsTouchIdSuccess.jsx'
 import SvgLanguageGlobe from './IconComponents/LanguageGlobe.jsx'
-import SvgMed from './IconComponents/Med.jsx'
 import SvgMedGeneralRx from './IconComponents/MedGeneralRx.jsx'
-import SvgMedSupplyBox from './IconComponents/MedSupplyBox.jsx'
 import SvgMenu from './IconComponents/Menu.jsx'
 import SvgMessageAttachment from './IconComponents/MessageAttachment.jsx'
 import SvgMessageCenter from './IconComponents/MessageCenter.jsx'
@@ -69,10 +60,8 @@ import SvgSearch from './IconComponents/Search.jsx'
 import SvgSearch1 from './IconComponents/Search1.jsx'
 
 export {
-    SvgAccordionCollapseLarge,
-    SvgAccordionCollapseSmall,
-    SvgAccordionExpandLarge,
-    SvgAccordionExpandSmall,
+    SvgAccordionCollapse,
+    SvgAccordionExpand,
     SvgAccountSettings,
     SvgAndroidFingerprintAuth,
     SvgAndroidFingerprintAuthSuccess,
@@ -80,11 +69,9 @@ export {
     SvgAndroidShowPassword,
     SvgArrowAngleDown,
     SvgArrowAngleLeft,
-    SvgArrowAngleLeft1,
     SvgArrowAngleRight,
     SvgArrowAngleUp,
     SvgArrowLeft,
-    SvgArrowLeft1,
     SvgArrowRight,
     SvgCalendar,
     SvgCaretDown,
@@ -98,9 +85,6 @@ export {
     SvgFlagCanada,
     SvgFlagMexico,
     SvgFlagUsa,
-    SvgHeaderBackArrow,
-    SvgHelpLight,
-    SvgIcon,
     SvgIOsBilling,
     SvgIOsHome,
     SvgIOsOrders,
@@ -113,9 +97,7 @@ export {
     SvgIOsTouchId3,
     SvgIOsTouchIdSuccess,
     SvgLanguageGlobe,
-    SvgMed,
     SvgMedGeneralRx,
-    SvgMedSupplyBox,
     SvgMenu,
     SvgMessageAttachment,
     SvgMessageCenter,
@@ -137,6 +119,6 @@ export {
     SvgNotificationWarningLight,
     SvgPrint,
     SvgSearch,
-    SvgSearch1,
+    SvgSearch1
 }
 

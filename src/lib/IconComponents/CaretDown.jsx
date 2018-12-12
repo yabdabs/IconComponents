@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgCaretDown = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Arrows / Caret - down\n    "}</title>
+    <title>{"\n        Caret Down\n    "}</title>
     <defs>
       <path
         className="Caret-Down_svg__path-01"

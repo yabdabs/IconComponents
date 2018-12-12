@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgCloseX = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Close X\n    "}</title>
+    <title>{"\n        Close\n    "}</title>
     <defs>
       <path
         className="Close-X_svg__path-01"

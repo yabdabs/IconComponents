@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgArrowAngleDown = props => (
   <svg viewBox="0 0 24 27" {...props}>
-    <title>{"\n        Icon / Arrows / Angle Arrow - down\n    "}</title>
+    <title>{"\n        Arrow Angle Down\n    "}</title>
     <defs>
       <path
         className="Arrow-Angle-Down_svg__path-01"

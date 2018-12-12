@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgClearX = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Clear X\n    "}</title>
+    <title>{"\n        Clear\n    "}</title>
     <defs>
       <path
         className="Clear-X_svg__path-01"

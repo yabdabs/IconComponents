@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgExternalLink = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / External Link\n    "}</title>
+    <title>{"\n        External Link\n    "}</title>
     <defs>
       <path
         className="External-Link_svg__path-01"

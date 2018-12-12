@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgCalendar = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Calendar\n    "}</title>
+    <title>{"\n        Calendar\n    "}</title>
     <defs>
       <path
         className="Calendar_svg__path-01"

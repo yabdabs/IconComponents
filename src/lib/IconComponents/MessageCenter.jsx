@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgMessageCenter = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Message / Message Center\n    "}</title>
+    <title>{"\n        Message Center\n    "}</title>
     <defs>
       <path
         className="Message-Center_svg__path-01"

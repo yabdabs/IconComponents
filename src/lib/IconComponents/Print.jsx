@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgPrint = props => (
   <svg viewBox="0 0 24 25" {...props}>
-    <title>{"\n        Icon / Print\n    "}</title>
+    <title>{"\n        Print\n    "}</title>
     <defs>
       <path
         className="Print_svg__path-01"

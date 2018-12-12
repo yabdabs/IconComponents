@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgIOsOrders = props => (
   <svg viewBox="0 0 33 32" {...props}>
-    <title>{"\n        Icon / iOS / Orders\n    "}</title>
+    <title>{"\n        Orders\n    "}</title>
     <defs>
       <path
         className="iOS-Orders_svg__path-01"

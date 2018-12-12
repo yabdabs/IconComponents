@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgMessageUnread = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Message / Message - unread\n    "}</title>
+    <title>{"\n        Message Unread\n    "}</title>
     <defs>
       <path
         className="Message-Unread_svg__path-01"

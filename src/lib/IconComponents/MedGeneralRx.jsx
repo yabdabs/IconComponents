@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgMedGeneralRx = props => (
   <svg viewBox="0 0 144 144" {...props}>
-    <title>{"\n        Icon / Med / General Rx\n    "}</title>
+    <title>{"\n        Med General Rx\n    "}</title>
     <defs>
       <path
         className="Med-General-Rx_svg__path-01"

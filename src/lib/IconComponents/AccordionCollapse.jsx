@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgAccordionCollapse = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Accordion / Collapse - small\n    "}</title>
+    <title>{"\n        Collapse Accordion\n    "}</title>
     <defs>
       <rect
         id="Accordion-Collapse_svg__a"

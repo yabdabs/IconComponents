@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgMessageReply = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Message / Message - reply\n    "}</title>
+    <title>{"\n        Message Reply\n    "}</title>
     <defs>
       <path
         className="Message-Reply_svg__path-01"

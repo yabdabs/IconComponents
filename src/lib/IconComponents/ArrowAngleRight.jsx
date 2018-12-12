@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgArrowAngleRight = props => (
   <svg viewBox="0 0 25 24" {...props}>
-    <title>{"\n        Icon / Arrows / Angle Arrow - right\n    "}</title>
+    <title>{"\n        Arrow Right\n    "}</title>
     <defs>
       <path
         className="Arrow-Angle-Right_svg__path-01"

@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgLanguageGlobe = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Language Globe\n    "}</title>
+    <title>{"\n        Language Globe\n    "}</title>
     <defs>
       <path
         className="Language-Globe_svg__path-01"

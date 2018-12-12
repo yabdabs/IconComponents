@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgClock = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Clock\n    "}</title>
+    <title>{"\n        Clock\n    "}</title>
     <defs>
       <path
         className="Clock_svg__path-01"

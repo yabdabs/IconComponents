@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgIOsHome = props => (
   <svg viewBox="0 0 33 32" {...props}>
-    <title>{"\n        Icon / iOS / Home\n    "}</title>
+    <title>{"\n        Home\n    "}</title>
     <defs>
       <path
         className="iOS-Home_svg__path-01"

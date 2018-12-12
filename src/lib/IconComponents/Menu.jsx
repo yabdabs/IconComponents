@@ -2,7 +2,7 @@ import React from "react";
 
 const SvgMenu = props => (
   <svg viewBox="0 0 24 24" {...props}>
-    <title>{"\n        Icon / Menu\n    "}</title>
+    <title>{"\n        Menu\n    "}</title>
     <defs>
       <path
         className="Menu_svg__path-01"

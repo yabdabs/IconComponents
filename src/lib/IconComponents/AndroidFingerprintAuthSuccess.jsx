@@ -2,9 +2,7 @@ import React from "react";
 
 const SvgAndroidFingerprintAuthSuccess = props => (
   <svg viewBox="0 0 137 137" {...props}>
-    <title>
-      {"\n        Icon / Android / Android - Fingerprint Auth Success\n    "}
-    </title>
+    <title>{"\n        Successful Authentication Fingerprint\n    "}</title>
     <g fillRule="evenodd">
       <path
         className="Android-Fingerprint-Auth-Success_svg__path-01"
