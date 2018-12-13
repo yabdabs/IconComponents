@@ -10,13 +10,7 @@
         <g id="Style_Icons" transform="translate(-286.000000, -3456.000000)">
             <g id="Message" transform="translate(165.000000, 3384.000000)">
                 <g id="Icon-/-Message-/-Message---unread" transform="translate(121.000000, 72.000000)">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
                     <use id="Combined-Shape" fill="#B9BCC0" xlink:href="#path-1"></use>
-                    <g id="Color-/-Global-Grey---medium-dark" mask="url(#mask-2)" fill="#747981">
-                        <rect id="color" x="0" y="0" width="24" height="24"></rect>
-                    </g>
                 </g>
             </g>
         </g>

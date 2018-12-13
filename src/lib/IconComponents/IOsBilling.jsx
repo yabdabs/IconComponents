@@ -10,15 +10,11 @@ const SvgIOsBilling = props => (
         id="iOS-Billing_svg__a"
       />
     </defs>
-    <g transform="translate(.5)" fillRule="evenodd">
-      <mask id="iOS-Billing_svg__b">
-        <use xlinkHref="#iOS-Billing_svg__a" />
-      </mask>
-      <use xlinkHref="#iOS-Billing_svg__a" />
-      <g mask="url(#iOS-Billing_svg__b)">
-        <rect width={32} height={32} transform="translate(-.5)" />
-      </g>
-    </g>
+    <use
+      xlinkHref="#iOS-Billing_svg__a"
+      transform="translate(.5)"
+      fillRule="evenodd"
+    />
   </svg>
 );
 

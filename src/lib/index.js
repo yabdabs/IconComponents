@@ -5,17 +5,10 @@ import SvgAndroidFingerprintAuth from './IconComponents/AndroidFingerprintAuth.j
 import SvgAndroidFingerprintAuthSuccess from './IconComponents/AndroidFingerprintAuthSuccess.jsx'
 import SvgAndroidHidePassword from './IconComponents/AndroidHidePassword.jsx'
 import SvgAndroidShowPassword from './IconComponents/AndroidShowPassword.jsx'
-import SvgArrowAngleDown from './IconComponents/ArrowAngleDown.jsx'
-import SvgArrowAngleLeft from './IconComponents/ArrowAngleLeft.jsx'
-import SvgArrowAngleRight from './IconComponents/ArrowAngleRight.jsx'
-import SvgArrowAngleUp from './IconComponents/ArrowAngleUp.jsx'
-import SvgArrowLeft from './IconComponents/ArrowLeft.jsx'
-import SvgArrowRight from './IconComponents/ArrowRight.jsx'
+import SvgArrowAngle from './IconComponents/ArrowAngle.jsx'
+import SvgArrow from './IconComponents/Arrow.jsx'
 import SvgCalendar from './IconComponents/Calendar.jsx'
-import SvgCaretDown from './IconComponents/CaretDown.jsx'
-import SvgCaretLeft from './IconComponents/CaretLeft.jsx'
-import SvgCaretRight from './IconComponents/CaretRight.jsx'
-import SvgCaretUp from './IconComponents/CaretUp.jsx'
+import SvgCaret from './IconComponents/Caret.jsx'
 import SvgClearX from './IconComponents/ClearX.jsx'
 import SvgClock from './IconComponents/Clock.jsx'
 import SvgCloseX from './IconComponents/CloseX.jsx'
@@ -67,17 +60,10 @@ export {
     SvgAndroidFingerprintAuthSuccess,
     SvgAndroidHidePassword,
     SvgAndroidShowPassword,
-    SvgArrowAngleDown,
-    SvgArrowAngleLeft,
-    SvgArrowAngleRight,
-    SvgArrowAngleUp,
-    SvgArrowLeft,
-    SvgArrowRight,
+    SvgArrowAngle,
+    SvgArrow,
     SvgCalendar,
-    SvgCaretDown,
-    SvgCaretLeft,
-    SvgCaretRight,
-    SvgCaretUp,
+    SvgCaret,
     SvgClearX,
     SvgClock,
     SvgCloseX,

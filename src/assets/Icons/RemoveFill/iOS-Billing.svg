@@ -12,15 +12,7 @@
                 <g id="Billing" transform="translate(0.000000, 48.000000)">
                     <g id="Icon-/-iOS-/-Billing" transform="translate(0.000000, 24.000000)">
                         <g id="Icon-/-Billing" transform="translate(0.500000, 0.000000)">
-                            <mask id="mask-2" fill="white">
-                                <use xlink:href="#path-1"></use>
-                            </mask>
                             <use id="Combined-Shape" fill="#979AA0" xlink:href="#path-1"></use>
-                            <g id="Color-/-Global-Grey---medium-dark" mask="url(#mask-2)" fill="#747981">
-                                <g transform="translate(-0.500000, 0.000000)" id="color">
-                                    <rect x="0" y="0" width="32" height="32"></rect>
-                                </g>
-                            </g>
                         </g>
                     </g>
                 </g>

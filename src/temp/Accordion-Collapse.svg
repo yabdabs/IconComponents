@@ -1,17 +1,6 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <title>
         Collapse Accordion
     </title>
-    <defs>
-        <rect id="Accordion-Collapse_svg__a" class="Accordion-Collapse_svg__path-01" x="6" y="11" width="12" height="2" rx="1"/>
-    </defs>
-    <g fill-rule="evenodd">
-        <mask id="Accordion-Collapse_svg__b">
-            <use xlink:href="#Accordion-Collapse_svg__a"/>
-        </mask>
-        <use xlink:href="#Accordion-Collapse_svg__a"/>
-        <g mask="url(#Accordion-Collapse_svg__b)">
-            <rect width="24" height="24"/>
-        </g>
-    </g>
+    <rect class="Accordion-Collapse_svg__path-01" x="6" y="11" width="12" height="2" rx="1"/>
 </svg>

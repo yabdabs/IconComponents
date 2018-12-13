@@ -3,22 +3,5 @@
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
     <title>Collapse Accordion</title>
     <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" class="path-01" x="6" y="11" width="12" height="2" rx="1"></rect>
-    </defs>
-    <g id="Style-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Style_Icons" transform="translate(-197.000000, -1320.000000)">
-            <g id="Accordion" transform="translate(165.000000, 1248.000000)">
-                <g id="Icon-/-Accordion-/-Collapse---small" transform="translate(32.000000, 72.000000)">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <use id="Combined-Shape" fill="#009BDF" xlink:href="#path-1"></use>
-                    <g id="Color-/-Global-Grey---medium-dark" mask="url(#mask-2)" fill="#747981">
-                        <rect id="color" x="0" y="0" width="24" height="24"></rect>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+    <rect id="path-1" class="path-01" x="6" y="11" width="12" height="2" rx="1"></rect>
 </svg>
