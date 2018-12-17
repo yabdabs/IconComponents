@@ -3,11 +3,17 @@
 
 Convert .svg files to optimized, react components
 
-<!-- ## Getting Started
+## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project is not yet published on npm. To include it in your project...
 
-git clone https://github.com/yabdabs/icon-components.git -->
+#### In your package.json, add the line below to dependencies
+```
+"icon-components": "https://github.com/yabdabs/icon-components.git"
+```
+
+#### Then
+```npm install```
 
 ### Importing SVG Components
 
