@@ -1,5 +1,6 @@
 
-# Icon Components
+# Icon Components -- Still under construction!
+
 
 Convert .svg files to optimized, react components
 
